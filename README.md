@@ -1,6 +1,6 @@
 <br>
 <p align = "center">
-<b> <span class = bigger> {Application Name} </span></b>
+<b> <font size="+3"> {Application Name} </font></b>
 </p>
 
 <p align = "center">
@@ -10,12 +10,6 @@
 <p align = "center">
  By {List of contributors}
  </p>
-
-<style>
-.bigger {
-  font-size: 30px;
-}
-</style>
 
 --------------------
 
