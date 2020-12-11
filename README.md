@@ -1,7 +1,7 @@
 <br>
-<p align = "center">
-<b> <font size="+3"> {Application Name} </font></b>
-</p>
+<h1 align = "center">
+<b> {Application Name} </b>
+</h1>
 
 <p align = "center">
 #### {Brief description of applicaton}, {Date of current version}
